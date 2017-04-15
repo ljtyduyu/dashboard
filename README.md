@@ -93,7 +93,7 @@ dev.off()
 ```
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/dashboard/blob/master/Image/bigdashboard.png" width = "1500" height = "675" alt="bigdashboard" align=center />
+<img src="https://github.com/ljtyduyu/dashboard/blob/master/Image/bigdashboard.png" width = "750" height = "337.5" alt="bigdashboard" align=center />
 </div>
 
 
