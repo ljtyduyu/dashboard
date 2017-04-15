@@ -50,7 +50,7 @@ dev.off()
 ```
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/dashboard/blob/master/Image/dashboard.png" width = "800" height = "540" alt="dashboard" align=center />
+<img src="https://github.com/ljtyduyu/dashboard/blob/master/Image/dashboard.png" width = "600" height = "405" alt="dashboard" align=center />
 </div>
 
 ------------------------------------------------------------------------------
