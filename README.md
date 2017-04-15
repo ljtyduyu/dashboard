@@ -119,8 +119,7 @@ Mail:578708965@qq.com <br>
 友情推荐：
 -------------------------------------------
 **周闻文**：Python爬虫大神，各种炫酷高能手法玩出爬虫新境界！！！<br>
-#### 简书主页：
-[duohappy](http://www.jianshu.com/u/5a8f3b911f56)
+#### 简书主页：[duohappy](http://www.jianshu.com/u/5a8f3b911f56)
 
 
 备注信息：
