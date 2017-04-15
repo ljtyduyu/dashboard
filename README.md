@@ -61,7 +61,7 @@ target<-runif(5,0,1)
 assist<-270*target
 ```
 
-gernal
+### syntaxic dashboard <br>
 ```r
 CairoPNG(file="bigdashboard.png",width=1500,height=675)
 showtext.begin()
@@ -118,7 +118,9 @@ Mail:578708965@qq.com <br>
 
 友情推荐：
 -------------------------------------------
-
+**周闻文**：Python爬虫大神，各种炫酷高能手法玩出爬虫新境界！！！<br>
+#### 简书主页：<br>
+[duohappy](http://www.jianshu.com/u/5a8f3b911f56)
 
 
 备注信息：
